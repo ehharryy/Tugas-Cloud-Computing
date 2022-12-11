@@ -1,6 +1,6 @@
 # Tugas-Cloud-Computing
 
-##Nama Kelompok
+## Nama Kelompok
 
 1.Eri Hariyanto
 
